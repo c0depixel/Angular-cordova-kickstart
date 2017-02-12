@@ -2,7 +2,7 @@
   "name": "angular-kickstarter",
   "description": "Cordova Kickstarter",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.5",
   "author": "Nenad Pejovic",
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
