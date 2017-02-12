@@ -7,19 +7,19 @@ Grunt/Angular/Cordova Kickstarter.
 Initial run: `npm install` and `bower install`
 
 Cordova:
-* Platforms
-`cordova platform add browser`
-`cordova platform add android`
+- Platforms<br>
+`cordova platform add browser`<br>
+`cordova platform add android`<br>
 `cordova platform add ios`
-* Plugins:
-`cordova plugin add cordova-plugin-whitelist`
-`cordova plugin add cordova-plugin-device`
-`cordova plugin add cordova-plugin-crosswalk-webview`
-`cordova plugin add cordova-plugin-inappbrowser`
+- Plugins:<br>
+`cordova plugin add cordova-plugin-whitelist`<br>
+`cordova plugin add cordova-plugin-device`<br>
+`cordova plugin add cordova-plugin-crosswalk-webview`<br>
+`cordova plugin add cordova-plugin-inappbrowser`<br>
 `cordova plugin add ionic-plugin-keyboard`
-* Run:
+- Run:<br>
 `cordova run <platform name>`
-* Help
+* Help<br>
 `cordova help`
 
 Development run: `grunt` for building, `grunt serve` for development preview with livereload and `grunt serve:www` for production preview
