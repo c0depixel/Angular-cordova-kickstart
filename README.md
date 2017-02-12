@@ -23,3 +23,5 @@ Cordova:
 `cordova help`
 
 Development run: `grunt` for building, `grunt serve` for development preview with livereload and `grunt serve:www` for production preview
+
+For Android debugging and  run `android` to setup Packages and Emulators
