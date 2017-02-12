@@ -1,0 +1,16 @@
+body {
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  @include transition(all .3s ease);
+  color: $primary-color;
+  &:hover {
+    color: lighten($primary-color, 5%);
+  }
+}
+
+ul, ol {
+  list-style: none;
+}
