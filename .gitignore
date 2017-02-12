@@ -2,6 +2,7 @@
 /www
 /.tmp
 /.sass-cache
+/.idea
 /bower_components
 /platforms
 /plugins
